@@ -8,9 +8,11 @@ When moving a property from a "Clone" project to a "Maintenance" project, follow
 1. Resource Discovery & Import
 Pulumi must first "adopt" the existing property.
 
-Bash
+```Bash
 # Syntax: pulumi import akamai:index/property:Property <ResourceName> <PropertyID>,<ContractID>,<GroupID>
 pulumi import akamai:index/property:Property clonedProperty prp_123,ctr_456,grp_789
+```
+
 2. Capturing the Rule Tree
 During the import, Pulumi prints a giant rules string. Capture this. It is the Source of Truth for your configuration.
 
