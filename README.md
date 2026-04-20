@@ -1,4 +1,5 @@
-Akamai CP Code Modernization & Rule Update
+# Akamai CP Code Modernization & Rule Update
+
 This Pulumi project manages the update lifecycle of an existing Akamai Property. Specifically, it automates the creation of a unique CP Code and injects it into an existing configuration's rule tree.
 
 🔄 The "Takeover" Workflow
