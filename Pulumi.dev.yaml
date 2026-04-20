@@ -1,8 +1,8 @@
 encryptionsalt: v1:kG5bxcoBjPM=:v1:1a7weiFm2DrblSDZ:p3HcUfiMyVADZujyfhatG+XjSOeaYA==
 config:
-  pulumi-update-config:contractId: ctr_W-2HAFUF
-  akamai:configSection: crunchy-pulumi
-  pulumi-update-config:groupId: grp_267587
-  pulumi-update-config:propertyId: prp_1344656
-  pulumi-update-config:propertyName: cloned_pulumi_a-vrv-amd
+  pulumi-update-config:contractId: ctr_XXXXXXXXXX
+  akamai:configSection: XXXXXXXXXXX
+  pulumi-update-config:groupId: grp_XXXXXXXXXX
+  pulumi-update-config:propertyId: prp_XXXXXXXXX
+  pulumi-update-config:propertyName: cloned_XXXXXXXXXX
   pulumi-update-config:notificationEmail: admin@example.com
