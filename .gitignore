@@ -1,2 +1,5 @@
 *.pyc
 venv/
+rules.json
+*.log
+raw.txt
